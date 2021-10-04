@@ -14,7 +14,7 @@ public class Cale {
 //        System.out.println("请输入b值");
 //        int b = input.nextInt();
         int ssum;
-        ssum =c+d;
+        ssum =c-d;
         System.out.println(ssum);
         return ssum;
     }
