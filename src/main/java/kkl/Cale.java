@@ -1,3 +1,5 @@
+package kkl;
+
 public class Cale {
     public static int add(int a, int b) {
         int sum;
